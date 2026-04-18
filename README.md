@@ -1,6 +1,7 @@
 # Contract Agent
 
-![截图](image/屏幕截图 2026-04-18 151502.png)
+<img width="1253" height="914" alt="屏幕截图 2026-04-18 151502" src="https://github.com/user-attachments/assets/0ff63d67-b106-4cfa-809d-1eac49d2b000" />
+
 
 AI驱动的智能合同审查工具，支持PDF和文本合同分析，自动识别合同类型并检测潜在法律风险。
 
