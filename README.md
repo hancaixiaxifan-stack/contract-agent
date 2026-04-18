@@ -26,14 +26,14 @@ git clone https://github.com/hancaixiaxifan-stack/contract-agent
 cd contract-agent
 ```
 
-2. 配置环境变量
+2. 创建并编辑环境变量文件
 ```bash
 cp .env.example .env
 ```
 
-编辑 `.env` 文件，填入你的 MiniMax API 密钥：
+**手动用记事本打开 `.env` 文件，将 `MINIMAX_API_KEY=your_api_key_here` 改成你真实的API密钥：**
 ```
-MINIMAX_API_KEY=你的API密钥
+MINIMAX_API_KEY=你真实的API密钥
 MINIMAX_BASE_URL=https://api.minimaxi.com/v1
 ```
 
